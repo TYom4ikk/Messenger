@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|solutionrelative:Messenger\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Main.cpp",
+              "RelativeDocumentMoniker": "Messenger\\Main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Main.cpp",
+              "RelativeToolTip": "Messenger\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T08:15:45.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
