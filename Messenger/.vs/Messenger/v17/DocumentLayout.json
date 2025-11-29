@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|solutionrelative:Messenger\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|solutionrelative:Messenger\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|solutionrelative:Messenger\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\sha256.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|solutionrelative:Messenger\\sha256.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|solutionrelative:Messenger\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|solutionrelative:Messenger\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\sha256.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EED5F13-E028-40E1-BF8F-D9D1BC0EB930}|Messenger\\Messenger.vcxproj|solutionrelative:Messenger\\sha256.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\User.cpp",
+              "RelativeDocumentMoniker": "Messenger\\User.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\User.cpp",
+              "RelativeToolTip": "Messenger\\User.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T08:54:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\User.h",
+              "RelativeDocumentMoniker": "Messenger\\User.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\User.h",
+              "RelativeToolTip": "Messenger\\User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T08:54:54.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sha256.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\sha256.h",
+              "RelativeDocumentMoniker": "Messenger\\sha256.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\sha256.h",
+              "RelativeToolTip": "Messenger\\sha256.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T08:50:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sha256.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\sha256.cpp",
+              "RelativeDocumentMoniker": "Messenger\\sha256.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\sha256.cpp",
+              "RelativeToolTip": "Messenger\\sha256.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T07:36:10.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Database.cpp",
+              "RelativeDocumentMoniker": "Messenger\\Database.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Database.cpp",
+              "RelativeToolTip": "Messenger\\Database.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T08:12:57.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Database.h",
+              "RelativeDocumentMoniker": "Messenger\\Database.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Database.h",
+              "RelativeToolTip": "Messenger\\Database.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T08:12:54.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Main.cpp",
-              "RelativeDocumentMoniker": "Messenger\\Main.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\Main.cpp",
-              "RelativeToolTip": "Messenger\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\main.cpp",
+              "RelativeDocumentMoniker": "Messenger\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Messenger\\Messenger\\Messenger\\main.cpp",
+              "RelativeToolTip": "Messenger\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-11T08:15:45.051Z",
               "EditorCaption": ""
