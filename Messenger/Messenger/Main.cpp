@@ -1,5 +1,7 @@
 #include <iostream>
 #include "sha256.h"
+#include "Database.h"
+#include "User.h"
 
 using namespace std;
 
@@ -22,9 +24,7 @@ int main() {
 		switch (input)
 		{
 		case 1:
-			
-			cin >> text;
-			cout<<sha256(text);
+			User::showAll();
 			break;
 		case 2:
 			break;
